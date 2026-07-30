@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██╗  ██╗██████╗ ██╗███████╗██╗  ██╗███╗   ██╗ █████╗
- ██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║████╗  ██║██╔══██╗
- █████╔╝ ██████╔╝██║███████╗███████║██╔██╗ ██║███████║
- ██╔═██╗ ██╔══██╗██║╚════██║██╔══██║██║╚██╗██║██╔══██║
- ██║  ██╗██║  ██║██║███████║██║  ██║██║ ╚████║██║  ██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-```
+<a href="https://github.com/krishna-kudari/"><img src="/svg.svg" width="100%" height="100%">
 
 ### Engineer · Dev Tooling · Systems
 **Building fast, reliable software** — from Android tooling to distributed backends
